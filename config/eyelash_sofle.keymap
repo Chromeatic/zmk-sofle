@@ -111,7 +111,7 @@
 &trans          &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans
             >;
 
-            display-name = "Gamepad";
+            display-name = "Game";
             sensor-bindings = <&scroll_encoder>;
         };
 
@@ -124,7 +124,7 @@
 &trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &kp N0          &kp N0    &kp DOT   &kp DOT
             >;
 
-            display-name = "Numpad";
+            display-name = "Num";
             sensor-bindings = <&scroll_encoder>;
         };
 
