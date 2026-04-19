@@ -7,6 +7,9 @@ on:
       - .github/workflows/draw.yml
       - keymap_drawer.config.yaml
 
+env:
+  ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: "true"
+
 jobs:
   draw:
     uses: caksoylar/keymap-drawer/.github/workflows/draw-zmk.yml@main
