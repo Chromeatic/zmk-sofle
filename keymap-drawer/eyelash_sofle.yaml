@@ -332,7 +332,5 @@ combos:
   k: {t: Game, h: toggle}
 - p: [28, 29, 30]
   k: {t: '$$mdi:backspace$$', type: backspace}
-- p: [29, 30]
-  k: {t: '$$mdi:keyboard-return$$', type: enter}
 - p: [30, 28]
   k: Num
