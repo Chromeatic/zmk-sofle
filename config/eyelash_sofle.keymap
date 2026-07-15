@@ -58,11 +58,6 @@
             key-positions = <28 29 30>;
         };
 
-        Enter {
-            bindings = <&kp ENTER>;
-            key-positions = <29 30>;
-        };
-
         Numpad {
             bindings = <&mo 2>;
             key-positions = <30 28>;
